@@ -44,7 +44,7 @@ p
 =
 transport
 .
-getDescription
+getFullDescription
 ()
 %></
 p
